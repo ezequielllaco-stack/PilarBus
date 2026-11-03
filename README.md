@@ -35,4 +35,4 @@ Las validaciones de Build y Test se ejecutarán automáticamente al crear o actu
 
 ## Equipo de desarrollo
 
-Proyecto realizado por estudiantes de la Universidad Nacional de Pilar (UNP) .
+Proyecto realizado por estudiantes de la Universidad Nacional de Pilar (UNP)..
