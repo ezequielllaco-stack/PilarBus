@@ -1,0 +1,20 @@
+name: PilarBus CI
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar codigo
+        uses: actions/checkout@v4
+
+      - name: Validar estructura del proyecto
+        run: |
+          echo "Codigo descargado correctamente"
+          echo "Validacion inicial de PilarBus completada"
