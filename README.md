@@ -1,4 +1,4 @@
-# PilarBus – Ecosistema Móvil de Transporte Público
+# PilarBus – Aplicación de transporte público con seguimiento de colectivos en tiempo real.
 
 ## Descripción del proyecto
 
