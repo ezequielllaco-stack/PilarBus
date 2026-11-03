@@ -14,7 +14,7 @@ Cuando un integrante finalice una tarea, deberá crear un Pull Request (PR) para
 
 ## Integración y Entrega Continua (CI/CD)
 
-Se utilizará **GitHub Actions** para automatizar el proceso de integración y entrega continua.
+Se utilizará GitHub Actions para automatizar el proceso de integración y entrega continua.
 
 El proceso funcionará de la siguiente manera:
 
