@@ -10,7 +10,7 @@ El proyecto utilizará Git y GitHub para almacenar y controlar las diferentes ve
 
 Los integrantes trabajarán mediante ramas (*branches*) independientes para desarrollar nuevas funcionalidades o corregir errores.
 
-Cuando un integrante finalice una tarea, deberá crear un **Pull Request (PR)** para solicitar la incorporación de sus cambios a la rama principal (`main`). Otro integrante revisará el código antes de aprobarlo.
+Cuando un integrante finalice una tarea, deberá crear un Pull Request (PR) para solicitar la incorporación de sus cambios a la rama principal (main). Otro integrante revisará el código antes de aprobarlo.
 
 ## Integración y Entrega Continua (CI/CD)
 
